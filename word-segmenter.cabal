@@ -5,12 +5,9 @@ version:            0.1.0.0
 
 -- A short (one-line) description of the package.
 -- synopsis:
+-- Takes in input line of noisy whitespace-less text
+-- and outputs a segmented attempt
 
--- A longer description of the package.
--- description:
-
--- A URL where users can report bugs.
--- bug-reports:
 
 -- The license under which the package is released.
 -- license:
